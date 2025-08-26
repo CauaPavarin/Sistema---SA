@@ -1,0 +1,26 @@
+681919f5b77fb|GPU-6600|Placa de Video RX 6600|Placa de Vídeo|1309.99|4|AMD|RX 6600|Placa de video nova|https://http2.mlstatic.com/D_812252-MLU79027153730_092024-C.jpg|2025-05-05 22:05:09
+
+68191c62087de|RTX-3060|Placa de Vídeo Galax NVIDIA GeForce RTX 3060, 12GB GDDR6, LHR, 1-Click OC, 15GBps, Ray Tracing, DLSS - 36NOL7MD1VOC|Placa de Vídeo|2490|5|INTEL|GeForce RTX 3060|Ray Tracing Cores de 2 geração
+- Tensor Cores de 3 geração
+- Microsoft DirectX Ultimate
+- Memória Gráfica GDDR6
+- NVIDIA DLSS
+- NVIDIA GeForce Experience
+- NVIDIA G-SYNC
+- NVIDIA GPU Boost
+- Game Ready Drivers
+- Vulkan RT API, OpenGL 4.6
+- DisplayPort 1.4a, HDMI 2.1
+- HDCP 2.3
+- VR pronto|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmWxbimTIz8qHRIE9qJ_pXfnxQaobaaxV_QA&s|2025-05-05 22:15:30
+68191cb348510|GPU-3060|RTX 3060|Placa de Vídeo|2499.99|6|INTEL|GeForce RTX 3060|adadad|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmWxbimTIz8qHRIE9qJ_pXfnxQaobaaxV_QA&s|2025-05-05 22:16:516822526b928ff|Placa mãe MSI MPG AMD B550 Gaming Plus Socket AM4 ATX DDR4-SDRAM|Placa mãe MSI MPG AMD B550 Gaming Plus Socket AM4 ATX DDR4-SDRAMa|Placa-mãe|1111.11|11|AMD|Placa mãe MSI MPG AMD B550 Gaming Plus Socket AM4 ATX DDR4-SDRAM|Suporta processadores de desktop AMD Ryzen série 5000 e 3000 e processadores de desktop AMD Ryzen 4000 G-Series
+Suporta memória DDR4, até 4400 (OC) MHz
+Experiência de jogo Lightning Fast: PCIe 4.0, Lightning Gen 4 x4 M.2 com M.2 Shield Frozr, AMD Turbo USB 3.2 GEN 2
+Design de potência aprimorado: Core Boost, PWM IC digital, PCB de cobre espesso de 56,7 g, DDR4 Boost
+Solução térmica premium: Design de dissipador de calor estendido e M.2 Shield Frozr são construídos para sistema de alto desempenho e experiência de jogo sem parar||2025-05-12 21:56:27
+682252984bea3|Placa mae|Placa mãe MSI MPG AMD B550 Gaming Plus Socket AM4 ATX DDR4-SDRAM|Placa-mãe|1000|3|AMD|Placa mãe MSI MPG AMD B550 Gaming Plus Socket AM4 ATX DDR4-SDRAM|Placa mãe MSI MPG AMD B550 Gaming Plus Socket AM4 ATX DDR4-SDRAM
+Suporta processadores de desktop AMD Ryzen série 5000 e 3000 e processadores de desktop AMD Ryzen 4000 G-Series
+Suporta memória DDR4, até 4400 (OC) MHz
+Experiência de jogo Lightning Fast: PCIe 4.0, Lightning Gen 4 x4 M.2 com M.2 Shield Frozr, AMD Turbo USB 3.2 GEN 2
+Design de potência aprimorado: Core Boost, PWM IC digital, PCB de cobre espesso de 56,7 g, DDR4 Boost
+Solução térmica premium: Design de dissipador de calor estendido e M.2 Shield Frozr são construídos para sistema de alto desempenho e experiência de jogo sem parar|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmWxbimTIz8qHRIE9qJ_pXfnxQaobaaxV_QA&s|2025-05-12 21:57:12
